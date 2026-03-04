@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Sugestão: Adicione aqui uma imagem ou GIF de capa do Khroma (ex: mockup do celular/desktop) -->
   <h1>Khroma Copiloto Clínico</h1>
-  <p><strong>Inteligência Artificial de Alto Padrão para Análise e Prescrição Médica</strong></p>
+  <p><strong>Inteligência Artificial para Análise e Prescrição Médica</strong></p>
 </div>
 
 ---
