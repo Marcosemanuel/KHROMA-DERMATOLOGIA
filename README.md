@@ -1,5 +1,3 @@
-# Khroma - Análise de Lesões de Pele
-Saas para análise de lesões dermatológicas. 
 <div align="center">
   <!-- Sugestão: Adicione aqui uma imagem ou GIF de capa do Khroma (ex: mockup do celular/desktop) -->
   <h1>Khroma Copiloto Clínico</h1>
