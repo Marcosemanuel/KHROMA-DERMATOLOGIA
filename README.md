@@ -67,20 +67,9 @@ Neste projeto, apliquei metodologias complexas para resolver problemas reais de 
 
 ---
 
-## 📸 Demonstração Visual da Experiência (UI)
-
-_No seu repositório oficial, adicione abaixo:_
-
-* `[Screenshot 1 - Hero Section e Proposta de Valor]`
-* `[GIF do fluxo de Upload de Análise ocorrendo em real-time]`
-* `[Screenshot 2 - Paywall de Alta Conversão]`
-
----
-
 ## 🙋‍♂️ Sobre o Autor / Contato
 
-_Desenvolvido pela minha consultoria (ou por mim), integrando design thinking, engenharia distribuída full-stack e machine learning (LLMs) corporativo._
+_Desenvolvido por mim), integrando design thinking, engenharia distribuída full-stack e machine learning (LLMs) corporativo._
 
-* **LinkedIn:** [Insira seu link aqui]
-* **Portfólio Pessoal:** [Insira seu link aqui]
-* **E-mail:** [Insira seu contato aqui]
+
+* **E-mail:** [marcosemanuelrodrigues@gmail.com]
